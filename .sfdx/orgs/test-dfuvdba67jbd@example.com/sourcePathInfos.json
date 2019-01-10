@@ -1,0 +1,205 @@
+[
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app",
+        {
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1547094335946,
+            "changeTime": 1547094335946,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main",
+        {
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1547094335946,
+            "changeTime": 1547094335946,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1547095372542,
+            "changeTime": 1547095372542,
+            "contentHash": "dc5baf7877bc7953b80616001983f3a80eb64a65"
+        }
+    ],
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1547094335946,
+            "changeTime": 1547094335946,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples",
+        {
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1547094618500,
+            "changeTime": 1547094618500,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/objects/Account/fields/TestField__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/objects/Account/fields/TestField__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1547095372530,
+            "changeTime": 1547095372530,
+            "contentHash": "c535e54a31cf71242f5b810ad2f3c9c28f1cd047"
+        }
+    ],
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4595,
+            "modifiedTime": 1547095372534,
+            "changeTime": 1547095372534,
+            "contentHash": "84ea43cbbd40927bffd7a5b646b790d6d0c50536"
+        }
+    ],
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4591,
+            "modifiedTime": 1547095372537,
+            "changeTime": 1547095372537,
+            "contentHash": "83de84cf9a8ba045e55ef87711a97ece3b929276"
+        }
+    ],
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4931,
+            "modifiedTime": 1547095372540,
+            "changeTime": 1547095372540,
+            "contentHash": "41d99f2e4d34843173aa78ac0aede9005d140aed"
+        }
+    ],
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/permissionsets/TestField.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/permissionsets/TestField.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 695,
+            "modifiedTime": 1547095372542,
+            "changeTime": 1547095372542,
+            "contentHash": "035f0ba2bb0a5efa5cc94495231cd28b3272fa88"
+        }
+    ],
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1547095372529,
+            "changeTime": 1547095372529,
+            "contentHash": "d5ca94f93d0197a45bf5be6d2815b8a1617b97d3"
+        }
+    ],
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1547095372528,
+            "changeTime": 1547095372528,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1547095372528,
+            "changeTime": 1547095372528,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1547095372540,
+            "changeTime": 1547095372540,
+            "contentHash": "f4204eb1656efea8c3733cf8481ab7fd4906f3b3"
+        }
+    ],
+    [
+        "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nathan.batterham/Documents/Accenture/sfdx-fields-examples/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1547095372542,
+            "changeTime": 1547095372542,
+            "contentHash": "76f4ed88b426804deb7e9cffb575490642b40440"
+        }
+    ]
+]
